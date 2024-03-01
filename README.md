@@ -2,3 +2,5 @@
 Sample code for basic robot arm using transformations 
 
 ![](robotArm01.png)
+
+![](animation.gif)
