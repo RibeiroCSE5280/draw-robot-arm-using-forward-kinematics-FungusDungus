@@ -7,6 +7,10 @@ __pycache__/
 *.so
 
 
+
+# folder for animation
+animation/
+
 # Distribution / packaging
 .Python
 build/
